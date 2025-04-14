@@ -1,4 +1,5 @@
 Complex Adaptive Systems (CAS) Coursework
+
 This repository contains coursework from the Complex Adaptive Systems class, focusing on foundational concepts in linear algebra and various neural network architectures. The assignments are implemented primarily in MATLAB, but 1-7 are in Python.​
 
 Structure:
@@ -17,14 +18,16 @@ Spiking Neural Network (SNN): A model that incorporates time into neuron activat
 
 Scale-Free Network: A network whose degree distribution follows a power law.​
 
-🛠️ Getting Started
+Getting Started -
+
 Prerequisites
 
-PYTHON installed
+PYTHON installed,
 MATLAB installed 
 
 
-📄 Assignments Overview
+Assignments Overview - 
+
 ASSIGNMENT1.pdf – ASSIGNMENT7.pdf: These documents cover theoretical aspects of complex adaptive systems, including mathematical foundations and conceptual discussions.​
 
 ASSIGNMENT8.m – ASSIGNMENT10.m: These scripts implement various neural network models:
@@ -36,6 +39,7 @@ ASSIGNMENT9.m: Develops a Hopfield Neural Network (HNN) for associative memory t
 ASSIGNMENT10.m: Explores Spiking Neural Networks (SNN) and their temporal dynamics.​
 
 Learning Objectives:
+
 Understand and apply linear algebra concepts in the context of neural networks.
 
 Implement various neural network architectures and analyze their behaviors.
@@ -43,11 +47,13 @@ Implement various neural network architectures and analyze their behaviors.
 Explore the dynamics of complex adaptive systems through simulation.​
 
 Author:
-Name: Liam McMurray
+
+Liam McMurray
 
 Institution: University of California, Merced
 
 Course: Cognitive Science – Complex Adaptive Systems​
 
 Contact:
+
 For questions or collaboration inquiries, please contact lmcmurray185@gmail.com
