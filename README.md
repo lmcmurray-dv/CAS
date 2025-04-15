@@ -40,10 +40,10 @@ This part uses a Monte Carlo simulation to explore the classic Monty Hall proble
 
 ASSIGNMENT4.pdf - My Python script for Assignment 4 demonstrates some notable emergent properties of plotted data aggregation! The first block demonstrates CENTRAL LIMIT THEOREM - the theory that even the original uniform data (aka flat), when averaged adds structure — extreme values get "diluted," while mid-range values accumulate, forming the familiar bell curve. The second block demonstrates that when we start with a bimodal distribution, and average across pairs, a flat distribution emerges! Moreover, the use of exactly 30 samples as a threshold, amplifies this effect. And for the final block, even with strange, chaotic starting data, aggregation washes away the weirdness. As long as the mean and independence conditions are met, the average always gravitates toward a normal distribution.
 
-ASSIGNMENT5.pdf - Now it starts to get a bit more interesting - Lorenz Attractor
+ASSIGNMENT5.pdf - Now it starts to get a bit more interesting - Lorenz Attractor - 
 In this this surprisingly small block, when plotted, we see one of the most famous examples of chaotic behavior emerging from deterministic systems. For those unfimiliar with determinism, it suggests that everything that exists and will exist, is already set in stone and 'determined'. A deterministic system, is one that is scripted to behave in a mathematically tangible and predictable way. On paper, the formula for the Lorenz Attractor does not at all imply chaotic behavior, that chaos just sort of happens. The reason for this, is that when feedback loops are introduced to nonlinearity, small changes in values are greatly amplified; this in turn creates what we call fractality - a recurring shape with uniformity at different scales and different values. 
 
-ASSIGNMENT6.pdf - The Logistic Map
+ASSIGNMENT6.pdf - The Logistic Map - 
 This system in the python script demonstrates another example of fractal and chaotic behavior. When we take equation for the logistic map, and integrate it into python code, the simple, nonlinear equation that models population growth can present bifurcation - aka chaotic splitting in 2s. As the growth rate increases, the system transitions from stability to oscillation to full-blown chaos—demonstrating how complex behavior can arise from very simple rules.
 
 ASSIGNMENT7.pdf - The Mandelbrot Set
